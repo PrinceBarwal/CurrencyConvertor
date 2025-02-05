@@ -1,3 +1,5 @@
 import { LightningElement } from 'lwc';
 
-export default class ConvertCurrency extends LightningElement {}
+export default class ConvertCurrency extends LightningElement {
+    
+}
